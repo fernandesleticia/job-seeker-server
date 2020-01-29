@@ -9,7 +9,8 @@ The project was developed using Golang.
 
 ## Dependencies
 * Golang - [Online Documentation](https://golang.org/doc/)
-* 
+* postgres | go get github.com/jinzhu/gorm/dialects/postgres
+* gorm | go get github.com/jinzhu/gorm
 
 ## Usage
 
