@@ -1,0 +1,48 @@
+partnerId|title|categoryId|ExpiresAt
+1123|Vendedor|3|21/1/2020
+1245|Vendedor de cosméticos|7|4/9/2016
+1371|Operador de Call Center|11|12/9/2019
+1397|Operador de Call Center|11|21/08/2020
+2411|Operador de Call Center|11|13/12/2020
+2446|Operador de Call Center|11|26/1/2019
+2437|Operador de Call Center|11|4/4/2020
+2766|Operador de Call Center|11|7/2/2020
+2876|Operador de Call Center|11|8/11/2020
+2911|Operador de Call Center|11|4/3/2019
+3001|Analista de Help Desk|13|23/9/2020
+3112|Analista de Help Desk|13|3/3/2020
+3197|Analista de Help Desk|13|1/4/2020
+1399|Operador de Cobrança|9|7/6/2020
+2301|Operador de Cobrança|9|2/7/2020
+3217|Recepcionista|4|3/12/2020
+2334|Recepcionista|4|5/12/2020
+3312|Recepcionista|4|11/12/2020
+3387|Assistente Administrativo|87|22/1/2020
+3892|Assistente Administrativo|87|4/2/2019
+3991|Assistente Administrativo|87|7/5/2020
+4190|Assistente Administrativo|87|21/9/2020
+4277|Office Boy|47|2/12/2015
+4435|Office Boy|47|25/12/2020
+4789|Secretária|46|11/1/2019
+4879|Secretária|46|6/6/2020
+4901|Secretária|46|19/6/2020
+5012|Vendedor|3|12/11/2020
+5016|Vendedor|3|20/10/2020
+6122|Vendedor|3|13/4/2020
+6635|Vendedor|3|20/1/2020
+6798|Promotor de Vendas|5|21/8/2020
+6899|Promotor de Vendas|5|21/12/2020
+6900|Balconista|23|21/9/2020
+7021|Balconista|23|3/8/2019
+7123|Balconista|23|1/9/2020
+7195|Balconista|23|11/10/2020
+7345|Balconista|23|19/10/2019
+7357|Balconista|23|30/1/2020
+7523|Balconista|23|12/2/2020
+8523|Balconista|23|3/3/2018
+9121|Assistente Comercial|71|9/9/2020
+9543|Assistente Comercial|71|1/2/2020
+9143|Vendedor Externo|69|9/7/2020
+909|Vendedor Externo|69|16/12/2020
+9572|Vendedor Externo|69|19/1/2020
+9111|Vendedor Externo|69|9/11/2020
