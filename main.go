@@ -1,16 +1,12 @@
 package main
 
-import (
-	"log"
-	"net/http"
-
-	"github.com/gorilla/mux"
-)
+import "job-seeker-server/api"
 
 func main() {
-	router := mux.NewRouter()
+	// router := mux.NewRouter()
 
-	router.HandleFunc("/", ServeJobs)
+	// router.HandleFunc("/", ServeJobs)
 
-	log.Fatal(http.ListenAndServe(":8000", router))
+	// log.Fatal(http.ListenAndServe(":8000", router))
+	api.Run()
 }

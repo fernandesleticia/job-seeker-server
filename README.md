@@ -11,6 +11,7 @@ The project was developed using Golang.
 * Golang - [Online Documentation](https://golang.org/doc/)
 * postgres | go get github.com/jinzhu/gorm/dialects/postgres
 * gorm | go get github.com/jinzhu/gorm
+* godotenv       | github.com/joho/godotenv
 
 ## Usage
 
