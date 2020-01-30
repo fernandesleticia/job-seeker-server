@@ -8,16 +8,32 @@ The project was developed using Golang.
 
 
 ## Dependencies
-* Golang - [Online Documentation](https://golang.org/doc/)
-* postgres | go get github.com/jinzhu/gorm/dialects/postgres
-* gorm | go get github.com/jinzhu/gorm
-* godotenv       | github.com/joho/godotenv
+* postgres
+> go get github.com/jinzhu/gorm/dialects/postgres
+* gorm 
+> go get github.com/jinzhu/gorm
+* godotenv       |
+>go get github.com/joho/godotenv
 
 ## Usage
 
+* build
 ```bash
-$ 
+$ go build
 ```
+
+* run
+```bash
+$ ./job-seeker-server 
+```
+
+## Routes
+
+* list the jobs
+> '/jobs'
+* upload the file
+> '/indexUpload'
+
 ## Deploy
 
 * 
